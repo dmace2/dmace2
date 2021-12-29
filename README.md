@@ -24,3 +24,6 @@
  
 - I’m currently spending time enhancing my programming skills in **object-oriented programming**, **database management**, and **web development**, while also developing a business acumen through the process! 
 - Outside of academics, I'm into ultimate frisbee, debate, music - check out what I'm listening to right now with the widget below - (specifically, [a cappella](https://www.youtube.com/watch?v=un1HidgVOUk) and choral music), tennis, and Formula 1!
+
+
+**NOTE:** credit to [reeteshsudhakar](github.com/reeteshsudhakar) for the README inspiration
