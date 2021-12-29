@@ -1,4 +1,4 @@
-<p align="center" style="background-image: darkblue.jpg">
+<p align="center" style="background-image: url(darkblue.jpg")>
 	<a href="https://linkedin.com/in/dtmace2"><img style="border-radius: 6px; overflow: hidden;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 	</a>
 	<a href="https://instagram.com/dylanmace_"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
