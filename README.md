@@ -26,4 +26,6 @@
 - Outside of academics, I'm into ultimate frisbee, debate, music - check out what I'm listening to right now with the widget below - (specifically, [a cappella](https://www.youtube.com/watch?v=un1HidgVOUk) and choral music), tennis, and Formula 1!
 
 
+<br><br><br>
+
 **NOTE:** credit to [reeteshsudhakar](github.com/reeteshsudhakar) for the README inspiration
