@@ -22,8 +22,8 @@
 
 - My main interests list in iOS development and human-computer interaction. I will be pursuing my Master's degree from [Georgia Tech](gatech.edu) with an expected graduation date of Spring 2024.
  
-- I’m currently spending time enhancing my programming skills in **object-oriented programming**, **database management**, and **web development**, while also developing a business acumen through the process! 
-- Outside of academics, I'm into ultimate frisbee, debate, music - check out what I'm listening to right now with the widget below - (specifically, [a cappella](https://www.youtube.com/watch?v=un1HidgVOUk) and choral music), tennis, and Formula 1!
+- I’m currently spending time enhancing my programming skills in **iOS development**, **machine learning**, and **Python**, while also developing a personal website from scratch and building other side-projects  
+- Outside of academics, I'm into ultimate frisbee, music, and hockey. Check out my listening habits on [Apple Music](https://music.apple.com/profile/dmacer1) to see more!
 
 
 <br><br><br>
