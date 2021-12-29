@@ -1,4 +1,6 @@
-<p align="center" style="background-image: url(darkblue.jpg")>
+<div style="background-image: url(darkblue.jpg)">
+
+<p align="center">
 	<a href="https://linkedin.com/in/dtmace2"><img style="border-radius: 6px; overflow: hidden;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 	</a>
 	<a href="https://instagram.com/dylanmace_"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -6,7 +8,9 @@
 	<a href="mailto:dtmace2@gmail.com"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="center"> <a><strong> Computer Science @ <a href="https://gatech.edu">Georgia Tech</a> || Passionate Developer || Music Enthusiest</strong></a> </h3>
+<h3 align="center" style="color: white"> <a><strong> Computer Science @ <a href="https://gatech.edu">Georgia Tech</a> || Passionate Developer || Music Enthusiest</strong></a> </h3>
+
+</div>
 
 ---
 
