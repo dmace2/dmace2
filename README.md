@@ -28,4 +28,4 @@
 
 <br><br><br>
 
-**NOTE:** credit to [reeteshsudhakar](github.com/reeteshsudhakar) for the README inspiration
+**NOTE:** credit to [reeteshsudhakar](https://github.com/reeteshsudhakar) for the README inspiration
