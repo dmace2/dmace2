@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**dmace2/dmace2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align="center">
   <img src="assets/header.png">
@@ -27,11 +11,16 @@ Here are some ideas to get you started:
 	<a href="mailto:dtmace2@gmail.com"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="center"> <a><strong> Computer Science @ <a href="https://gatech.edu">Georgia Tech</a> || Aspiring Product Manager || Passionate Developer || Formula 1 Enthusiast || Research and Advocacy</strong></a> </h3>
+<h3 align="center"> <a><strong> Computer Science @ <a href="https://gatech.edu">Georgia Tech</a> || Passionate Developer || Music Enthusiest</strong></a> </h3>
 
 ---
 
-- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> My name is Reetesh **(Ree)** Sudhakar, and I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Information Internetworks**. I am also a **Software Development Intern** at [**Siemens Software**](https://sw.siemens.com) for Spring 2022. 
-- I’m interested in product/project management and its importance towards software development life cycles and product development. 
+
+
+
+- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> My name is Dylan Mace, and I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Human-Computer Interaction**. I have experience working for [Collins Aerospace](collinsaerospace.com) (Summer 2020/2021) and [Garmin Dive](https://www.garmin.com/en-US/p/707742) (Summer 2022).
+
+- My main interests list in iOS development and human-computer interaction. I will be pursuing my Master's degree from [Georgia Tech](gatech.edu) with an expected graduation date of Spring 2024.
+ 
 - I’m currently spending time enhancing my programming skills in **object-oriented programming**, **database management**, and **web development**, while also developing a business acumen through the process! 
 - Outside of academics, I'm into ultimate frisbee, debate, music - check out what I'm listening to right now with the widget below - (specifically, [a cappella](https://www.youtube.com/watch?v=un1HidgVOUk) and choral music), tennis, and Formula 1!
