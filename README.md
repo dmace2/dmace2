@@ -13,7 +13,7 @@
 
 
 
-- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px"> My name is Dylan Mace, and I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Human-Computer Interaction**. I have experience working for [Collins Aerospace](collinsaerospace.com) (Summer 2020/2021) and [Garmin Dive](https://www.garmin.com/en-US/p/707742) (Summer 2022).
+- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" object-fit: "contain" > My name is Dylan Mace, and I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Human-Computer Interaction**. I have experience working for [Collins Aerospace](collinsaerospace.com) (Summer 2020/2021) and [Garmin Dive](https://www.garmin.com/en-US/p/707742) (Summer 2022).
 
 - My main interests list in iOS development and human-computer interaction. I will be pursuing my Master's degree from [Georgia Tech](gatech.edu) with an expected graduation date of Spring 2024.
  
